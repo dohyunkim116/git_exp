@@ -1,3 +1,3 @@
 Project introduction.
 
-This is a git experimentation folder to play with.
+This is a project folder where you can experiment with git.
